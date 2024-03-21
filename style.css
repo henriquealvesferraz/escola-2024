@@ -1,6 +1,12 @@
-body{
-background-color: rgb(255, 0, 0)
-color: yellow;
-font-size: 12pt;
-font-family: arial;
+@chanset "UTF-8";
+body
+{
+  background-color: green;
+  color: red;
+  font-size: 12pt;
+  font-family: arial;
 }
+h1{
+  color: red ;
+}
+  
